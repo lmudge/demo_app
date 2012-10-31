@@ -1,4 +1,4 @@
-# Ruby of Rails Tutorial: demo application
+# Ruby of Rails Tutorial: dem application
 
 This is the demo application for the [*Ruby on Rails Tutorial*]
 (http://railstutorial.org/) by [Michael Hartl](http://michaelhartl.com/).
